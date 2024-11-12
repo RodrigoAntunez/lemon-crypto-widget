@@ -17,4 +17,4 @@ Este widget muestra los precios actuales de Bitcoin, Ethereum y USDC utilizando 
 - Muestra precios actuales de BTC, ETH y USDC.
 - Indica el cambio porcentual en las últimas 24 horas.
 - Cambia de color a verde o rojo según el movimiento del precio.
-- Incluye un fondo con el logo de Lemon.
+
